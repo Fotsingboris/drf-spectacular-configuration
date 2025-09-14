@@ -288,3 +288,6 @@ Create a file `blog/templates/blog/api_docs_home.html`:
 
 ---
 
+## **5. Resource to Learn DRF Completely**
+To deepen your knowledge of Django REST Framework, here is a very useful full course:
+▶️ [Complete DRF Video Link](https://youtu.be/zwYhiK2JC1c?si=jSHb4dzX8Op5WSKF) — covers the fundamentals, best practices, and real-world use cases.
